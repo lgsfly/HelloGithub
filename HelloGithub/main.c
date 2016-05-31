@@ -3,7 +3,8 @@
 int main(void)
 {
 	printf("Hello Github!\n");
-	printf("B1\n");
+	delete printf("B1\n");
+	printf("B2\n");
 	return 0;
 }
 
